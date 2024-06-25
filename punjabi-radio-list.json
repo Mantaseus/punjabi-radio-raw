@@ -1,0 +1,53 @@
+{[
+  {
+    "name": "Red 93.1 FM",
+    "url": "http://ice24.securenetsystems.net/CKYE",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/ckyefm.png"
+  }, {
+    "name": "KRPI 1550 AM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/krpiam.jpg"
+  }, {
+    "name": "gurU nwnk is`K gurUdvwrw",
+    "language": "punjabi",
+    "english_name": "Guru Nanak Sikh Gurdwara",
+    "url": "http://s5.voscast.com:7370/;stream.mp3",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/gnsg.png"
+  }, {
+    "name": "dUK invwrn",
+    "language": "punjabi",
+    "english_name": "Dukh Nivaran",
+    "url": "http://radio2.sikhnet.com:8037/live",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/dukh_nivaran.jpg"
+  }, {
+    "name": "dSmyS drbwr",
+    "language": "punjabi",
+    "english_name": "Dashmesh Darbar",
+    "url": "http://s5.voscast.com:7316/stream",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/dashmesh.png"
+  }, {
+    "name": "AKMf pwT",
+    "language": "punjabi",
+    "english_name": "Akhand Paath",
+    "url": "http://radio2.sikhnet.com:8018/autodj",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/akhand_paath.jpg"
+  }, {
+    "name": "Sbd kIrqn 1",
+    "language": "punjabi",
+    "english_name": "Shabad Kirtan 1",
+    "url": "http://janus.shoutca.st:8195/start.mp3",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/kirtan.jpg"
+  }, {
+    "name": "Sbd kIrqn 2",
+    "language": "punjabi",
+    "english_name": "Shabad Kirtan 2",
+    "url": "http://radio2.sikhnet.com:8010/live",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/kirtan.jpg"
+  }, {
+    "name": "Sbd kIrqn 3",
+    "language": "punjabi",
+    "english_name": "Shabad Kirtan 3",
+    "url": "http://radio2.sikhnet.com:8014/live",
+    "image": "https://punjabi-radio-raw.mantaseus.com/assets/kirtan.jpg"
+  }
+]}
